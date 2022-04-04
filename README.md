@@ -12,7 +12,7 @@ Javascript
 Open Weather APIs
 Bootstrap API
 Moment.js API
-# Website:
-# github repository:
+# Website: 
+# github repository:https://github.com/mobehnas/Weather-Dashboard
 # screenshot
 ![](./assets/css/images/screenshot.png)
