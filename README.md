@@ -18,4 +18,4 @@ Bootstrap API
 Moment.js API
 Website:
 github repository:
-# screen shot
+# screenshot
