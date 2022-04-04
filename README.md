@@ -19,10 +19,10 @@ THEN I am again presented with current and future conditions for that city
 HTML
 CSS
 Javascript
-Open Weather APIs - Current Weather Data, UV Index and 5 day/ 3 Hour Forecast
+Open Weather APIs
 Bootstrap API
 Moment.js API
-Website:
-github repository:
+#Website:
+# github repository:
 # screenshot
 
