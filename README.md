@@ -15,4 +15,4 @@ Moment.js API
 # Website:
 # github repository:
 # screenshot
-![](./assets/images/Screenshot.png)
+![](./assets/images/screenshot.png)
